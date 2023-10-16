@@ -12,9 +12,6 @@ const nextConfig = {
  
   // Optional: Change the output directory `out` -> `dist`
   // distDir: 'dist',
-  images: {
-    unoptimized: true
-  }
 }
  
 module.exports = nextConfig
